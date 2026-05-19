@@ -10,3 +10,11 @@ User can:
   o	Press S1: reset time to 0.
   o	Press S3: switch display to show voltage.
 Even while in voltage mode, the clock continues running in the background.
+<img width="3000" height="4000" alt="IMG20250508170104" src="https://github.com/user-attachments/assets/ec294867-f159-46fb-ab2a-9f9409be0fac" />
+<img width="3000" height="4000" alt="IMG20250508170106" src="https://github.com/user-attachments/assets/cbbdcd28-76e7-47bd-9b62-2e134ea2f17d" />
+
+
+
+
+
+
