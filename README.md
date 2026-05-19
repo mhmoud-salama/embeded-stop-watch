@@ -16,5 +16,5 @@ Even while in voltage mode, the clock continues running in the background.
 
 
 
-
+[Embeded Project.pdf](https://github.com/user-attachments/files/27979590/Embeded.Project.pdf)
 
